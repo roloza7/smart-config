@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "smart-config",
+  "version": "0.1.0",
+  "description": "A tool for managing config files in different environments",
+  "bin": {
+    "smart-config": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roloza7/smart-config.git"
+  },
+  "keywords": [
+    "config",
+    "dev-tool"
+  ],
+  "author": "Rodrigo Loza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roloza7/smart-config/issues"
+  },
+  "homepage": "https://github.com/roloza7/smart-config#readme"
+}
